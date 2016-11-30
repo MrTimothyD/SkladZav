@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BaseDirectory>
+  <Directory name="ExcelSaving">
+    <Path>C:\Users\Timothy\Desktop</Path>
+  </Directory>
+  <Directory name="ConnectionString">
+    <Path>Data Source=TIMOTHY-PC;Initial Catalog=SkladZavDB;Integrated Security=true</Path>
+  </Directory>
+</BaseDirectory>

@@ -1,0 +1,38 @@
+c:\users\timothy\documents\visual studio 2015\Projects\SkladZav\SkladZav\bin\Debug\SkladZav.exe.config
+c:\users\timothy\documents\visual studio 2015\Projects\SkladZav\SkladZav\bin\Debug\SkladZav.exe
+c:\users\timothy\documents\visual studio 2015\Projects\SkladZav\SkladZav\bin\Debug\SkladZav.pdb
+c:\users\timothy\documents\visual studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.csprojResolveAssemblyReference.cache
+c:\users\timothy\documents\visual studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.Form1.resources
+c:\users\timothy\documents\visual studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.Properties.Resources.resources
+c:\users\timothy\documents\visual studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.csproj.GenerateResource.Cache
+c:\users\timothy\documents\visual studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.exe
+c:\users\timothy\documents\visual studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.pdb
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.Form2.resources
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.Form3.resources
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.Form4.resources
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.Form6.resources
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.Form5.resources
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\Interop.LCC11.dll
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\Interop.MsoEuro.dll
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\Interop.MsoScreenRecorderLib.dll
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\Interop.TASKLAUNCHLib.dll
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.csproj.ResolveComReference.cache
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.Form7.resources
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.Form8.resources
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\bin\Debug\papki_dokumenty.ico
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.Form9.resources
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\bin\Debug\SkladZav.exe.manifest
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\bin\Debug\SkladZav.application
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.exe.manifest
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.application
+C:\Users\Timothy\Documents\Visual Studio 2015\Projects\SkladZav\SkladZav\obj\Debug\SkladZav.Form10.resources
+A:\Data\Заявка по складу\Проект SkladZav\SkladZav\SkladZav\bin\Debug\SkladZav.exe.config
+A:\Data\Заявка по складу\Проект SkladZav\SkladZav\SkladZav\obj\Debug\Interop.ACTIVEXLib.dll
+A:\Data\Заявка по складу\Проект SkladZav\SkladZav\SkladZav\obj\Debug\Interop.LCC11.dll
+A:\Data\Заявка по складу\Проект SkladZav\SkladZav\SkladZav\obj\Debug\Interop.MsoEuro.dll
+A:\Data\Заявка по складу\Проект SkladZav\SkladZav\SkladZav\obj\Debug\Interop.MsoScreenRecorderLib.dll
+A:\Data\Заявка по складу\Проект SkladZav\SkladZav\SkladZav\obj\Debug\Interop.TASKLAUNCHLib.dll
+A:\Data\Заявка по складу\Проект SkladZav\SkladZav\SkladZav\obj\Debug\SkladZav.csproj.ResolveComReference.cache
+A:\Data\Заявка по складу\Проект SkladZav\SkladZav\SkladZav\obj\Debug\SkladZav.exe
+A:\Data\Заявка по складу\Проект SkladZav\SkladZav\SkladZav\obj\Debug\SkladZav.pdb
