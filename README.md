@@ -1,2 +1,3 @@
-project SkladZav
+source program - SkladZav/
+UML diagramm - UML/
 
