@@ -1,4 +1,4 @@
 source program - SkladZav/
 
-UML diagramms - UML/
+UML - UML diagramms/
 
